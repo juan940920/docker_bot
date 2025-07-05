@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const url_base =  "http://127.0.0.1:80/api";
-const url_base =  "http://18.119.235.71";
+const url_base =  "http://3.137.187.171/api";
 // const url_base = "http://127.0.0.1:8000/api";
 
 export default function Api(){
